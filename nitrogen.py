@@ -26,7 +26,7 @@ def Home():
 {Fore.LIGHTCYAN_EX}         ░  ░              ░         ░ ░                  ░ ░      ░ ░      ░  ░
 
 {Fore.LIGHTCYAN_EX}              ╔══════════════════════════════════════════════════════════╗
-{Fore.LIGHTCYAN_EX}              ║       Nitro Tool by Reds#9999 and Etxrnal#9999           ║
+{Fore.LIGHTCYAN_EX}              ║       Nitro Tool by Reds#9999 and etxrnal#9999           ║
 {Fore.LIGHTCYAN_EX}              ║══════════════════════════════════════════════════════════║
 {Fore.LIGHTCYAN_EX}              ║ {Fore.YELLOW}[1] {Fore.LIGHTCYAN_EX}NITRO CODE GENERATOR                                 ║
 {Fore.LIGHTCYAN_EX}              ║ {Fore.YELLOW}[2] {Fore.LIGHTCYAN_EX}NITRO CODE CHECKER                                   ║
