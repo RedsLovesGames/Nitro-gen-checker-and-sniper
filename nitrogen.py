@@ -11,9 +11,9 @@ from time import gmtime, sleep, strftime
 def Home():
     os.system("cls")
     colorama.init()
-    ctypes.windll.kernel32.SetConsoleTitleW(f"[Nitro Tool] By Reds#9999 | Loading...")
+    ctypes.windll.kernel32.SetConsoleTitleW(f"[Nitro Tool] By Reds#9999 and etxrnal#9999 | Loading...")
     time.sleep(3)
-    ctypes.windll.kernel32.SetConsoleTitleW(f"[Nitro Tool] By Reds#9999 | Main Menu")
+    ctypes.windll.kernel32.SetConsoleTitleW(f"[Nitro Tool] By Reds#9999 and etxrnal#9999 | Main Menu")
     print(f'''
 {Fore.LIGHTCYAN_EX} ███▄    █  ██▓▄▄▄█████▓ ██▀███   ▒█████     ▄▄▄█████▓ ▒█████   ▒█████   ██▓    
 {Fore.LIGHTCYAN_EX} ██ ▀█   █ ▓██▒▓  ██▒ ▓▒▓██ ▒ ██▒▒██▒  ██▒   ▓  ██▒ ▓▒▒██▒  ██▒▒██▒  ██▒▓██▒    
