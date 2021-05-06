@@ -63,7 +63,7 @@ def Generator():
 
     num=input(f"[{Fore.LIGHTCYAN_EX}Enter The Ammount Of Codes To Generate{Fore.LIGHTBLACK_EX}]{Fore.LIGHTCYAN_EX}> ")
 
-    f=open("Nitro Codes.txt","r+", encoding='utf-8')
+    f = open('Codes.txt', "a+")
         
     for Reds in range(int(num)):
         nitro = ''.join(random.choice(string.ascii_uppercase + string.digits + string.ascii_lowercase) for _ in range(16))
