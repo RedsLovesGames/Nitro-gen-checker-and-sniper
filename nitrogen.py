@@ -101,7 +101,7 @@ def Checker():
 
     num=input(f"[{Fore.LIGHTCYAN_EX}Press Enter To Start Checking Codes{Fore.LIGHTBLACK_EX}]{Fore.LIGHTCYAN_EX}> ")
 
-    f=open("Nitro Codes.txt","r+", encoding='utf-8')
+    f = open('Codes.txt')
 
     for line in f:
         nitro = line.strip("\n")
