@@ -1,6 +1,6 @@
 # Nitrogen-and-checker
 You will need python 3.x.x to run this program and you can pick it up for free right here https://www.python.org/downloads/ This team hopes you enjoy this project
-
+Also if you want to build the exe yourself https://youtu.be/UBRCtRWzSqc
 
 
 
